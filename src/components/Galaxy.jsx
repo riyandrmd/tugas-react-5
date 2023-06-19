@@ -3,7 +3,7 @@ import React from 'react'
 const Galaxy = (props) => {
 
     const cardStyle = {
-        backgroundColor: "black",
+        backgroundColor: "#063970",
         width: 150,
         padding: 10,
         color: "white",
