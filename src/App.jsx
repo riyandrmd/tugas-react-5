@@ -82,7 +82,7 @@ const App = () => {
   }
 
   const hapusById= () => {
-    setGalaxies(galaxies.filter((value) => value.id !== parseInt(id2)))
+    setGalaxies(galaxies.filter((value) => value.id != parseInt(id2)))
   }
 
 
